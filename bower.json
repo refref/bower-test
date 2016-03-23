@@ -1,0 +1,27 @@
+{
+  "name": "bower-test",
+  "authors": [
+    "yildiz <ahmet.yildiz@adesso.com.tr>"
+  ],
+  "description": "bower test project",
+  "main": "some.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bower",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "www.adesso.com.tr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2"
+  }
+}
